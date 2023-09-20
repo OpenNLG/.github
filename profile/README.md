@@ -1,9 +1,9 @@
 ## Hi there 👋
 Welcome to OpenNLG Group 
 
-🌈LOGO powered by xx 
-<!--
 
+<!--
+🌈LOGO powered by xx 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
