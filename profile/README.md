@@ -1,5 +1,6 @@
 ## Hi there 👋
-Welcome to OpenNLG Group 
+Welcome to OpenNLG Group.
+You can visit our lab homepage for more information: [https://opennlg.cn/](https://opennlg.cn/).
 
 
 <!--
